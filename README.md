@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhairyawan Kumar Tiwari
 - 👀 I’m interested in coding,web development and android development
 -  I’m looking to collaborate on open source projects and web development projects .
-- 📫 How to reach me dhairyawantiwari@gmail.com
+- 📫 How to reach me dhairyawankumartiwari@gmail.com
 - 
 
 <!---
